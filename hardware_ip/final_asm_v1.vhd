@@ -1,13 +1,6 @@
 ------CODE FOR REGISTER------
 --------------------------------------------------------------------------------- 
 -- Engineer: C Sivakumar
--- 
--- Create Date:    08:37:44 05/25/2016 
--- Design Name:    register
--- Module Name:    reg_v1-behavioral
--- Project Name:   Tapped Delay Line
--- Revision 0.01 - File Created
--- Additional Comments: no load signal
 --
 ----------------------------------------------------------------------------------
 library IEEE;
